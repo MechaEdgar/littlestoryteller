@@ -1,9 +1,9 @@
-var bla = "there was a time a ";
+var tale = "there was a time a ";
 var noun = prompt("Hello there, give me a noun");
-bla +=  noun;
+tale +=  noun;
 console.log(noun);
-console.log(bla);
+console.log(tale);
 var verb = prompt("Hello again, give me a verb please");
 console.log(verb);
-bla += " that really enjoys to " + verb;
-document.write(bla);
+tale += " that really enjoys to " + verb;
+document.write(tale);
